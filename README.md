@@ -1,5 +1,5 @@
 #  "Домашнее задание к занятию «Уязвимости и атаки на информационные системы»" - МИхеев Алексей.
-Задание 1
+### Задание 1
 Скачайте и установите виртуальную машину Metasploitable: https://sourceforge.net/projects/metasploitable/.
 
 Это типовая ОС для экспериментов в области информационной безопасности, с которой следует начать при анализе уязвимостей.
@@ -51,7 +51,7 @@ PORT STATE SERVICE
 vsftpd 2.3.4 - Backdoor Command Execution.
 OpenSSH < 7.7 - User Enumeration (2).
 MySQL 5.0.x - IF Query Handling Remote Denial of Service.
-Задание 2
+### Задание 2
 Проведите сканирование Metasploitable в режимах SYN, FIN, Xmas, UDP.
 
 Запишите сеансы сканирования в Wireshark.
